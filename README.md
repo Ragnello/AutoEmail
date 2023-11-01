@@ -1,4 +1,4 @@
-# FlightSearch
+# AutoEmail
 Projeto de automação de identificação e classificação de emails no Google Drive.
 
 ## Etapas do projeto
