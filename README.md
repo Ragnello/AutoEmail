@@ -15,9 +15,9 @@ Projeto de automação de identificação e classificação de emails no Google 
 ```txt
 AutoEmail
 ├── main.py
+├── info.py
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 ```
 
 ## Comandos de atualização do repositório
